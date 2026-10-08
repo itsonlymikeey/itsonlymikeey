@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm currently learning
+
+- Python
+- Arduino and Circuitry
+- 3D CAD and ANSYS
+
+I'm working on
+
+- Solar tracker project
+
+  Goals for 2026
+  - Continue developing tech skills
+  - Research on Space exploration and Rocketry
+  - Deepen understanding on Automotive Cars and autonomous vehicles
+  
+
 <!--
 **itsonlymikeey/itsonlymikeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
