@@ -25,9 +25,9 @@ I'm currently learning and building at the intersection of software, electronics
   </tbody>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td valign="top" width="60%">
       <h2>What I'm currently learning</h2>
       <ul>
         <li>Python <img width="48" height="47.6" alt="CodeCodingGIFbyEscuelaDevRock" src="https://github.com/user-attachments/assets/d4d5116a-995b-4a96-8999-a55bbe061a72" /></li>
@@ -35,8 +35,8 @@ I'm currently learning and building at the intersection of software, electronics
         <li>3D CAD and ANSYS <img width="40.0" height="40.0" alt="3DGeekGIFbyBanggood" src="https://github.com/user-attachments/assets/aaefbb10-e924-4387-a794-3a0045ba38f4" /></li>
       </ul>
     </td>
-    <td valign="top">
-      <img width="300" alt="UnimpressedSeaGIFbySpongeBobSquarePants" src="https://github.com/user-attachments/assets/147d46a5-9008-48c5-89c2-10807a11c8d1" />
+    <td align="right" valign="top" width="40%">
+      <img width="100%" alt="UnimpressedSeaGIFbySpongeBobSquarePants" src="https://github.com/user-attachments/assets/147d46a5-9008-48c5-89c2-10807a11c8d1" />
     </td>
   </tr>
 </table>
