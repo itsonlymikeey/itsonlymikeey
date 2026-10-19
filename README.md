@@ -37,11 +37,21 @@ I'm currently learning and building at the intersection of software, electronics
 <img width="640" height="360" alt="DrivingSebastianVettelGIFbyFormula1" src="https://github.com/user-attachments/assets/4e3b8140-4c88-4286-b05a-8fb18814d7ef" />
 
 
-## Ask me about
-
-- 🎵 R&B Music
-- 🎮 Video Games and Dance
-- 🍙 Anime <img width="150" height="150" alt="headhypeGIF" src="https://github.com/user-attachments/assets/ff3ffe32-379d-42f6-8f12-46c6b3c8a497" />
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <h2>Ask me about</h2>
+      <ul>
+        <li>🎵 R&amp;B Music</li>
+        <li>🎮 Video Games and Dance</li>
+        <li>🍙 Anime</li>
+      </ul>
+    </td>
+    <td align="right" valign="top" width="40%">
+      <img width="420" alt="headhypeGIF" src="https://github.com/user-attachments/assets/ff3ffe32-379d-42f6-8f12-46c6b3c8a497" />
+    </td>
+  </tr>
+</table>
 
 
 ## Contact
