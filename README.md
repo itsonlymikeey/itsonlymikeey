@@ -30,9 +30,9 @@ I'm currently learning and building at the intersection of software, electronics
     <td valign="top" width="60%">
       <h2>⚙️ What I'm currently learning</h2>
       <ul>
-        <li>Python <img width="48" height="47.6" alt="CodeCodingGIFbyEscuelaDevRock" src="https://github.com/user-attachments/assets/d4d5116a-995b-4a96-8999-a55bbe061a72" /></li>
+        <li>Python <img width="40" height="40" alt="Python sticker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></li>
         <li>Arduino and circuitry <img width="22.4" height="16.0" alt="Open-SourceElectronicsGIFbyArduino" src="https://github.com/user-attachments/assets/9c588beb-1cc4-43d3-91d1-8895fa439089" /></li>
-        <li>3D CAD and ANSYS <img width="40.0" height="40.0" alt="3DGeekGIFbyBanggood" src="https://github.com/user-attachments/assets/aaefbb10-e924-4387-a794-3a0045ba38f4" /></li>
+        <li>3D CAD and ANSYS <img width="32" height="32" alt="SolidWorks logo" src="https://cdn.simpleicons.org/solidworks" /> <img width="32" height="32" alt="Ansys logo" src="https://cdn.simpleicons.org/ansys" /></li>
       </ul>
     </td>
     <td align="right" valign="top" width="40%">
