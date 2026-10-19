@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mikeey;Engineering+and+technology+learner;Always+learning+and+building" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mikey;Aerospace+and+Mechanical+Engineering+Student;Have+a+dream+to+make+Motorsports" alt="Typing introduction" />
 </p>
 
 ## About me (❁´◡`❁)
@@ -8,9 +8,22 @@ I'm currently learning and building at the intersection of software, electronics
 
 ## Projects
 
-| Project | Description | Link |
-| --- | --- | --- |
-| Solar tracker ☀️ | A project focused on tracking the sun using electronics and control systems. | [View profile projects](https://github.com/itsonlymikeey?tab=repositories) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th bgcolor="#228B22">Project</th>
+      <th bgcolor="#228B22">Description</th>
+      <th bgcolor="#228B22">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Solar tracker ☀️</td>
+      <td>A project focused on tracking the sun using electronics and control systems.</td>
+      <td><a href="https://github.com/itsonlymikeey?tab=repositories">View profile projects</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <tr>
@@ -28,7 +41,7 @@ I'm currently learning and building at the intersection of software, electronics
   </tr>
 </table>
 
-## Goals for 2026
+## 🎯 Goals for 2026
 
 - [ ] ⚙️ Continue developing tech skills
 - [ ] 👾 Research space exploration and rocketry 
