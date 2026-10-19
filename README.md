@@ -1,32 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mikeey;Engineering+and+technology+learner;Always+learning+and+building" alt="Typing introduction" />
+</p>
 
-I'm currently learning
+<p align="center">
+  <a href="https://github.com/itsonlymikeey">GitHub</a>
+</p>
+
+## About me
+
+I'm currently learning and building at the intersection of software, electronics, and engineering. I enjoy exploring practical technology projects and developing my skills through hands-on work.
+
+## Projects
+
+| Project | Description | Link |
+| --- | --- | --- |
+| Solar tracker | A project focused on tracking the sun using electronics and control systems. | [View profile projects](https://github.com/itsonlymikeey?tab=repositories) |
+
+## What I'm currently learning
 
 - Python
-- Arduino and Circuitry
+- Arduino and circuitry
 - 3D CAD and ANSYS
 
-I'm working on
+## Goals for 2026
 
-- Solar tracker project
+- [ ] Continue developing technology skills
+- [ ] Research space exploration and rocketry
+- [ ] Deepen my understanding of automotive engineering and autonomous vehicles
 
-  Goals for 2026
-  - Continue developing tech skills
-  - Research on Space exploration and Rocketry
-  - Deepen understanding on Automotive Cars and autonomous vehicles
-  
+## Ask me about
 
-<!--
-**itsonlymikeey/itsonlymikeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python and beginner programming projects
+- Arduino and circuitry
+- 3D CAD and ANSYS
+- Solar tracking projects
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can connect with me through [GitHub](https://github.com/itsonlymikeey).
